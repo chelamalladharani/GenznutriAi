@@ -1,0 +1,6 @@
+{
+  "name": "GenZNutriAI",
+  "description": "GenZNutriAI is a full-stack nutrition tracking and meal planning application. Log daily meals, look up calories and macros dynamically with Gemini AI, set custom calorie goals, and plan custom meals for breakfast, lunch, and dinner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
